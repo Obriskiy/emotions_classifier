@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://drive.google.com/uc?export=download&id=1z6OPsvilMqyZYsVbeFJz9vRrOPDZmpJD'
+model_file_url = 'https://drive.google.com/uc?export=download&id=1zAGEmNICxs4jxa1pDrE9QQ2zEDaCwIb5'
 model_file_name = 'model'
 classes = ['afraid', 'angry', 'disgusted', 'happy', 'sad', 'surprised']
 path = Path(__file__).parent
